@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Souvik Pal
-- 👀 I’m interested in new technologies 
+- 👋 Hi, I’m Souvik Pal currenly I'm a undergraduate, p
+- 👀 I’m interested in C, C++, Java 
 - 📫 How to reach me :- souvik.career2024@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: 1 + 1 = 10 
