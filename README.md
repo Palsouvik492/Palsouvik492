@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Souvik Pal
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning google cloud
+- 👀 I’m interested in new technologies 
 - 📫 How to reach me :- souvik.career2024@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: 1 + 1 = 10 
